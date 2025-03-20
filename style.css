@@ -20,9 +20,10 @@ html, body {
 }
 
 header {
-    background-color: black;
+    background-color: #57270c;
     color: white;
     text-align: center;
+    
 
 }
 
@@ -81,14 +82,14 @@ section.imagem > p {
 }
 
 section#img01 {
-    background-image: url(imagens/background001.jpg);
+    background-image: url(imagens/estetica\ 2.avif);
     background-position: right center;
    
 
 }
 
 section#img02 {
-    background-image: url(imagens/background002.jpg);
+    background-image: url(imagens/estetica\ 1.jpg);
 
 
 }
